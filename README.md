@@ -22,5 +22,5 @@ Skills: Python / SQL / HTML / CSS / Async / Django
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macalistervadim)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=macalistervadim&show_icons=true)  
+
 
