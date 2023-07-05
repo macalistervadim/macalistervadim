@@ -1,17 +1,17 @@
-### Всем привет 👋, меня зовут Вадим
-#### Добро пожаловать в мой репозиторий GitHub. Здесь я делюсь своим путем веб-разработки и стремлюсь к постоянному развитию своих навыков. Я начинающий веб-разработчик, который каждый день изучает новые софт-скиллы, чтобы стать еще лучше. Вот некоторая информация о моих интересах и достижениях:
+### Hello everyone! 👋 My name is Vadim.
+#### Welcome to my GitHub repository. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:
 
-### Обо мне
-Я увлеченный веб-разработчик, постоянно стремящийся к совершенству. Мои основные навыки включают разработку веб-приложений, фронтенд и бэкенд разработку. Я имею небольшой опыт разработки на языке Python, и продолжаю его углублять, осваивая новые концепции и фреймворки.
+### About Me
+I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
 
-### Что я делаю
-**Веб-разработка:** Я создаю динамические и отзывчивые веб-приложения, используя современные технологии и инструменты.
+### What I Do
+**Web Development**: I create dynamic and responsive web applications using modern technologies and tools.
 
-**Бэкенд разработка:** Я занимаюсь разработкой серверной логики и API, используя язык Python и фреймворк Django.
+**Backend Development**: I work on developing server-side logic and APIs using the Python language and the Django framework.
 
-**Базы данных:** Я имею опыт работы с реляционными базами данных, такими как MySQL и PostgreSQL.
+**Databases**: I have experience working with relational databases such as MySQL and PostgreSQL.
 
-**Инструменты и технологии:** Я работаю с системами контроля версий, такими как Git, и использую инструменты разработки, такие как PyCharm и командную строку.
+**Tools and Technologies**: I work with version control systems like Git and use development tools such as PyCharm and the command line.
 
 
 Skills: Python / SQL / HTML / CSS / Async / Django 
