@@ -1,10 +1,10 @@
-### Hello everyone! 👋 My name is Vadim.
+### **Hello everyone! 👋 My name is Vadim.**
 #### Welcome to my GitHub repository. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:
 
-### About Me
+### **About Me**
 I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
 
-### What I Do
+### **What I Do**
 **Web Development**: I create dynamic and responsive web applications using modern technologies and tools.
 
 **Backend Development**: I work on developing server-side logic and APIs using the Python language and the Django framework.
