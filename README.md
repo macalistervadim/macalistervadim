@@ -16,7 +16,6 @@ I am a passionate web developer constantly striving for perfection. My main skil
 
 Skills: Python / SQL / HTML / CSS / Async / Django 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macalistervadim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
