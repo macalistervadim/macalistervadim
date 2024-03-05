@@ -5,7 +5,12 @@
 I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
 
 ### **What I Do**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,mysql,postgres,py&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,mysql,postgres,py)" />
+  </a>
+</p>
+
 
 
 Skills: Python / SQL / HTML / CSS / Async / Django 
