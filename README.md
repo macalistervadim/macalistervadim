@@ -3,13 +3,7 @@
 
 <h3 align="center">I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.</h3>
 
-<p align="center">
-  <h3 align="center">Programming languages: </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
-  </a>
-</p>
-
+<h3 align="center">Programming languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
@@ -17,9 +11,13 @@
 </p>
 
 <h3 align="center">Databases: </h3>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
   </a>
+</p>
+
+
 Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
 
