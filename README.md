@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">Databases: </h3>
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
   </a>
