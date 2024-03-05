@@ -8,13 +8,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
   </a>
-  <h3 align="center">Databases: </h3>
+</p>
+
+<h3 align="center">Databases: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
   </a>
-  
-</p>
-
 Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
 
