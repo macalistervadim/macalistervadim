@@ -5,13 +5,7 @@
 I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
 
 ### **What I Do**
-**Web Development**: I create dynamic and responsive web applications using modern technologies and tools.
-
-**Backend Development**: I work on developing server-side logic and APIs using the Python language and the Django framework.
-
-**Databases**: I have experience working with relational databases such as MySQL and PostgreSQL.
-
-**Tools and Technologies**: I work with version control systems like Git and use development tools such as PyCharm and the command line.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,mysqlpostgres,py )](https://skillicons.dev)
 
 
 Skills: Python / SQL / HTML / CSS / Async / Django 
