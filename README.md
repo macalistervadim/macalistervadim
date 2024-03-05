@@ -8,6 +8,22 @@ I am a passionate web developer constantly striving for perfection. My main skil
 ### **What I Do**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,github,githubactions,gitlab,mysql,postgres,py,discord,bots,django,flask,idea,sqlite,sublime,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
+Programming languages: 
+[![My Skills](https://skillicons.dev/icons?i=js,django,flask,py&theme=light)](https://skillicons.dev)
 
+Databases:
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
+
+Markup languages:
+[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+
+Git:
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=light)](https://skillicons.dev)
+
+Other skills:
+[![My Skills](https://skillicons.dev/icons?i=figma,docker,discord,bots&theme=light)](https://skillicons.dev)
+
+IDE:
+[![My Skills](https://skillicons.dev/icons?i=idea,sublime,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 
