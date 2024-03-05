@@ -45,6 +45,6 @@
 <h3 align="center">IDE: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,sublime,visualstudio,vscode,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=idea,sublime,visualstudio,vscode&theme=light" />
   </a>
 </p>
