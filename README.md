@@ -6,7 +6,7 @@
 <p align="center">
   <h3 align="center">Programming languages: </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
   </a>
   <h3 align="center">Databases: </h3>
   <a href="https://skillicons.dev">
