@@ -1,12 +1,9 @@
-### **Hello everyone! 👋 My name is Vadim.**
-Welcome to my GitHub profile. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A0F7D0&random=false&width=435&lines=%3EHello+everyone!+%F0%9F%91%8B+My+name+is+Vadim.)](https://git.io/typing-svg)</h1>
+<h3 align="center">Welcome to my GitHub profile. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:</h3>
 
-
-### **About Me**
-I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
+<h3 align="centr">I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.</h3>
 
 ### **What I Do**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,github,githubactions,gitlab,mysql,postgres,py,discord,bots,django,flask,idea,sqlite,sublime,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 Programming languages: 
 [![My Skills](https://skillicons.dev/icons?i=js,django,flask,py&theme=light)](https://skillicons.dev)
