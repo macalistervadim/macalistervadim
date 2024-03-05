@@ -8,6 +8,12 @@
 <h3 align="center">Programming languages: </h3>
 <h2 align="centr"> [![My Skills](https://skillicons.dev/icons?i=js,django,flask,py&theme=light)](https://skillicons.dev) </h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
+  </a>
+</p>
+
 Databases:
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
 
