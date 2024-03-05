@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Here, I share my journey in web development and st
 I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
 
 ### **What I Do**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,mysql,postgres,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,docker,git,github,githubactions,gitlab,mysql,postgres,py,discord,bots,django,flask,idea,sqlite,sublime,visualstudio,vscode,&theme=light)](https://skillicons.dev)
 
 
 
