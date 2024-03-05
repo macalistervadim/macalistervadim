@@ -21,20 +21,30 @@
   </a>
 </p>
 
+<h3 align="center">Markup languages: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
+  </a>
+</p>
 
-Databases:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light)](https://skillicons.dev)
+<h3 align="center">Git: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=light" />
+  </a>
+</p>
 
-Markup languages:
-[![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)](https://skillicons.dev)
+<h3 align="center">Other skills: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,docker,discord,bots&theme=light" />
+  </a>
+</p>
 
-Git:
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=light)](https://skillicons.dev)
-
-Other skills:
-[![My Skills](https://skillicons.dev/icons?i=figma,docker,discord,bots&theme=light)](https://skillicons.dev)
-
-IDE:
-[![My Skills](https://skillicons.dev/icons?i=idea,sublime,visualstudio,vscode,&theme=light)](https://skillicons.dev)
-
-
+<h3 align="center">IDE: </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,sublime,visualstudio,vscode,&theme=light" />
+  </a>
+</p>
