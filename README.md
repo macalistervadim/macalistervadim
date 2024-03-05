@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
+  </a>
+</p>
+
 <h3 align="center">Databases: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light" />
