@@ -3,12 +3,8 @@
 
 <h3 align="center">I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.</h3>
 
-<h3 align="center">What I Do</h3>
-
-<h3 align="center">Programming languages: </h3>
-<h2 align="centr"> [![My Skills](https://skillicons.dev/icons?i=js,django,flask,py&theme=light)](https://skillicons.dev) </h2>
-
 <p align="center">
+  <h3 align="center">Programming languages: </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,django,flask,py&theme=light" />
   </a>
