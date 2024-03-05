@@ -1,5 +1,6 @@
 ### **Hello everyone! 👋 My name is Vadim.**
-#### <p style="text-align: center;">Welcome to my GitHub profile. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:</p>
+<p style="text-align: center;">Welcome to my GitHub profile. Here, I share my journey in web development and strive for constant improvement of my skills. I am a beginner web developer who learns new soft skills every day to become even better. Here is some information about my interests and achievements:
+</p>
 
 ### **About Me**
 I am a passionate web developer constantly striving for perfection. My main skills include web application development, frontend, and backend development. I have some experience in Python development and continue to deepen it by learning new concepts and frameworks.
