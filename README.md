@@ -20,12 +20,10 @@
 ---
 
 ### 👨‍💻 About Me :
-- 🔭 I’m currently working on **[My Blog Platform Project](#)** using Django 5.0 and Vue.js 3.0.
 - 🌱 I’m currently learning **Advanced Python**, **Algorithms**, and **Clean Code**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Python**, **Django**, and **Backend Development**.
-- 📫 How to reach me: [macalistervadim@domain.com](mailto:macalistervadim@domain.com).
-- ⚡ Fun fact: I love exploring algorithms and solving complex problems!
+- ⚡ Fun fact: I just love learning new technologies and various low-level things. But I don't really like algorithms :)
 
 ---
 
@@ -33,10 +31,14 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" title="HTML" alt="HTML" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" title="CSS" alt="CSS" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="100" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="150" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" width="100" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <!-- Add more tools if needed -->
+  <p>And also various other assistive technologies and programming languages...</p>
 </div>
 
 ---
