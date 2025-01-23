@@ -4,7 +4,7 @@
     <a href="https://www.reddit.com/user/macalistervadim/">
       <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="https://www.telegram.com/macalistervadim/">
+    <a href="https://t.me/macalistervadim/">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
