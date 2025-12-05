@@ -39,5 +39,7 @@ Containers · Linux · CI/CD · k8
 
 **Contact**
 If you'd like to discuss architecture, backend development, or systems:
+
 Reddit: u/macalistervadim
+
 Telegram: macalistervadim
