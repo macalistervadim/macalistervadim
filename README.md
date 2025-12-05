@@ -1,5 +1,6 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&size=28&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Vadim;Backend+Engineer;Python+%7C+Architecture+%7C+Systems" /></div>
 Depth over hype. Engineering over noise.
+
 I build backend systems with a focus on clarity, correctness, and long-term maintainability.
 
 **About Me**
