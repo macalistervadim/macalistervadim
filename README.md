@@ -5,6 +5,8 @@
 I build backend systems with a focus on clarity, correctness, and long-term maintainability.
 
 **About Me**
+
+
 I write backend code and design systems where frameworks are optional,
 but architecture, data structures, invariants, and correctness are fundamental.
 My main interests revolve around how real systems behave:
