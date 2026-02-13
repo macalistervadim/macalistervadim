@@ -44,4 +44,4 @@ If you'd like to discuss architecture, backend development, or systems:
 
 Reddit: u/macalistervadim
 
-Telegram: macalistervadim
+Telegram: [@qwertyusr](https://t.me/qwertyusr)
