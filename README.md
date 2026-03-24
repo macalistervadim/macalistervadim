@@ -39,6 +39,18 @@ Caching · Queues · Event-driven flows
 Containers · Linux · CI/CD · k8 
 ```
 
+## Founder
+
+<p align="left">
+  <a href="https://github.com/eebook-org">
+    <img src="eebook-logo_dark@2x.png" width="260">
+  </a>
+</p>
+
+<p align="left">
+Building infrastructure and tools for investors
+</p>
+
 **Contact**
 If you'd like to discuss architecture, backend development, or systems:
 
